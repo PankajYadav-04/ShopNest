@@ -10,7 +10,7 @@ Backend API for ShopNest E-commerce Application.
 
 ## Postman Collection
 
-[Download Collection](./postman/ShopNest.postman_collection.json)
+[Download Collection](./Postman/ShopNest.postman_collection.json)
 
 ## Author
 
